@@ -1,3 +1,9 @@
+golang-defaults (2:1.15~1~bpo10+1danos1) UNRELEASED; urgency=medium
+
+  * Enable build on stock Debian Buster
+
+ -- Daniel Gollub <dgollub@att.com>  Tue, 17 Aug 2021 13:11:31 +0200
+
 golang-defaults (2:1.15~1~bpo10+1) buster-backports; urgency=medium
 
   * Team upload.
